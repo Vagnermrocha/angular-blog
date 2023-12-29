@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "user": "Vagnermrocha",
+      "title": "X-Men",
+      "postContent": "Melhor filme de mutantes!",
+      "subtitle": "good film",
+      "id": 1
+    },
+    {
+      "user": "Vagnermrocha",
+      "title": "Vingadores",
+      "postContent": "Excelente filme, pois conseguem criar um enredo que todos os herois participam",
+      "subtitle": "very good",
+      "id": 2
+    },
+    {
+      "user": "Vagnermrocha",
+      "title": "Batman",
+      "postContent": "Lugar sombrio, Gothan! ",
+      "subtitle": "very good",
+      "id": 2
+    },
+    {
+      "user": "Vagnermrocha",
+      "title": "Hoje é o dia",
+      "postContent": "ok ok ok",
+      "subtitle": "De ser feliz",
+      "id": 3
+    }
+  ]
+}
