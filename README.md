@@ -1,27 +1,56 @@
-# AngularBlog
+📰 Angular Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.2.
+Projeto desenvolvido com Angular CLI 16.1.2 como parte de estudos na plataforma DIO. O objetivo é criar um blog simples com estrutura de componentes, rotas e boas práticas de desenvolvimento front-end.
 
-## Development server
+🚀 Tecnologias utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular 16.1.2
+- TypeScript
+- HTML / CSS
+- Angular CLI
 
-## Code scaffolding
+📦 Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- ✅ Estrutura de blog com posts
+- ✅ Componentização de layout
+- ✅ Navegação entre páginas com rotas
+- ✅ Estilização básica
 
-## Build
+▶️ Como executar o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone o repositório
 
-## Running unit tests
+`bash
+git clone https://github.com/Vagnermrocha/angular-blog.git
+cd angular-blog
+`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Instale as dependências
 
-## Running end-to-end tests
+`bash
+npm install
+`
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. Inicie o servidor de desenvolvimento
 
-## Further help
+`bash
+ng serve
+`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Acesse em: http://localhost:4200
+
+📚 Aprendizados
+
+Este projeto foi criado para praticar:
+- Criação de componentes com Angular CLI
+- Organização de rotas e navegação
+- Boas práticas de estruturação de projetos Angular
+- Estilização básica com CSS
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+Desenvolvido com 💻 por Vagner Rocha
