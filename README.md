@@ -47,10 +47,4 @@ Este projeto foi criado para praticar:
 - Boas práticas de estruturação de projetos Angular
 - Estilização básica com CSS
 
-📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 Desenvolvido com 💻 por Vagner Rocha
